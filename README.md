@@ -1,80 +1,103 @@
-# Muhammad Fiqri Awwalul Islam
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-Biasa dipanggil **TheAsep**. Mahasiswa D4 Teknik Mekatronika di Politeknik Negeri Ujung Pandang (PNUP), Makassar.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Fiqri%20Awwalul%20Islam&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20TheAsep%20%E2%80%A2%20Mechatronics%20Student%20%26%20Embedded%20Enthusiast&descSize=16&descAlignY=58" alt="Header Banner" />
 
-Saya mengerjakan hal-hal di antara mekanik, elektronik, dan pemrograman: dari menggambar komponen di SolidWorks, merancang PCB, sampai menulis kode untuk menjalankannya.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Halo%2C+saya+TheAsep+%F0%9F%91%8B;Mahasiswa+D4+Teknik+Mekatronika+%40+PNUP;C+%2F+C%2B%2B+%7C+IoT+%7C+CAD+%7C+VBA+Automation;Membangun+ide+menjadi+perangkat+nyata+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Fawwalul&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Fawwalul?label=Followers&style=flat-square&color=2c5364)
+![Location](https://img.shields.io/badge/Makassar-Sulawesi%20Selatan-203a43?style=flat-square&logo=googlemaps&logoColor=white)
 
-- Mahasiswa D4 Teknik Mekatronika, Politeknik Negeri Ujung Pandang (PNUP)
-- Berdomisili di Makassar, Sulawesi Selatan, Indonesia
-- Menulis program dalam C, C++, dan VBA
-- Mendesain model 3D dengan SolidWorks 2020 dan rangkaian elektronik dengan KiCad
-- Terbiasa memperbaiki peralatan listrik dan mensimulasikan rangkaian sebelum dirakit
-- Memesan PCB custom dan layanan CNC lewat JLCPCB
-
----
-
-## Tech Stack & Tools
-
-**Pemrograman**
-
-![C](https://img.shields.io/badge/C-24292f?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-24292f?style=flat-square)
-![VBA](https://img.shields.io/badge/VBA-24292f?style=flat-square)
-
-**CAD & Desain 3D**
-
-![SolidWorks 2020](https://img.shields.io/badge/SolidWorks%202020-24292f?style=flat-square)
-
-**Hardware & Simulasi**
-
-![IoT](https://img.shields.io/badge/IoT-24292f?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-24292f?style=flat-square)
-![Proteus](https://img.shields.io/badge/Proteus-24292f?style=flat-square)
-![Multisim Live](https://img.shields.io/badge/Multisim%20Live-24292f?style=flat-square)
-![Falstad](https://img.shields.io/badge/Falstad-24292f?style=flat-square)
-![CNC Swansoft](https://img.shields.io/badge/CNC%20Swansoft-24292f?style=flat-square)
-![Perbaikan Peralatan Listrik](https://img.shields.io/badge/Perbaikan%20Peralatan%20Listrik-24292f?style=flat-square)
-
-**Manufaktur Digital**
-
-![JLCPCB](https://img.shields.io/badge/JLCPCB-24292f?style=flat-square)
+</div>
 
 ---
 
-## Projects & Focus
+## 👨‍💻 About Me
 
-**Mekatronika**
-Integrasi mekanik, elektronik, dan kontrol. Mencakup desain 3D di SolidWorks dan simulasi permesinan CNC dengan Swansoft.
-
-**IoT**
-Perangkat terhubung untuk pemantauan dan kontrol jarak jauh, termasuk perancangan PCB di KiCad dan fabrikasinya lewat JLCPCB.
-
-**Utilitas C/C++**
-Program kecil dan alat bantu untuk logika kontrol, pemrosesan data, dan sistem tertanam.
-
-**VBA Office Automation**
-Makro untuk mengotomatiskan pekerjaan berulang di Excel dan aplikasi Office lainnya.
-
-Repositori proyek saya tambahkan di sini seiring waktu.
+- 👋 Halo! Saya **Muhammad Fiqri Awwalul Islam**, biasa dipanggil **TheAsep**
+- 🎓 Mahasiswa **D4 Teknik Mekatronika** di **Politeknik Negeri Ujung Pandang (PNUP)**
+- 📍 Berdomisili di **Makassar, Sulawesi Selatan, Indonesia**
+- 🔧 Tertarik pada **mekatronika, IoT, desain 3D, dan perancangan rangkaian elektronik**
+- 💻 Aktif menulis program dengan **C, C++, dan VBA** untuk utilitas dan otomasi
+- 🛠️ Terbiasa melakukan **perbaikan peralatan listrik** dan simulasi rangkaian
+- 🏭 Memanfaatkan **JLCPCB** untuk pemesanan PCB custom dan layanan CNC
+- 🌱 Terus belajar dan mengeksplorasi teknologi baru di bidang otomasi dan sistem tertanam
 
 ---
 
-## GitHub Stats
+## 🧰 Tech Stack & Tools
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fawwalul&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwalul&theme=dark&hide_border=true&bg_color=0d1117&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
+### 💻 Pemrograman
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=Fawwalul&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+### 📐 CAD & Desain 3D
+![SolidWorks](https://img.shields.io/badge/SolidWorks%202020-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+### 🔌 Hardware & Simulasi
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=circuitverse&logoColor=white)
+![Multisim Live](https://img.shields.io/badge/Multisim%20Live-00A86B?style=for-the-badge&logo=ni&logoColor=white)
+![Falstad](https://img.shields.io/badge/Falstad-F57C00?style=for-the-badge&logo=circuitverse&logoColor=white)
+![CNC Swansoft](https://img.shields.io/badge/CNC%20Swansoft-607D8B?style=for-the-badge&logo=hackaday&logoColor=white)
+![Perbaikan Listrik](https://img.shields.io/badge/Perbaikan%20Peralatan%20Listrik-FBC02D?style=for-the-badge&logo=hackaday&logoColor=black)
+
+### 🏭 Manufaktur Digital
+![JLCPCB](https://img.shields.io/badge/JLCPCB-Custom%20PCB%20%26%20CNC-0B5FFF?style=for-the-badge&logo=pcbway&logoColor=white)
 
 ---
 
-## Connect with Me
+## 🚀 Projects & Focus
 
-- Email: [fiqricell119@gmail.com](mailto:fiqricell119@gmail.com)
-- GitHub: [github.com/Fawwalul](https://github.com/Fawwalul)
+| Bidang | Deskripsi |
+|:------|:----------|
+| ⚙️ **Mekatronika** | Perancangan dan integrasi sistem mekanik, elektronik, dan kontrol, dari desain 3D di SolidWorks hingga simulasi CNC dengan Swansoft. |
+| 🌐 **Internet of Things (IoT)** | Pengembangan perangkat terhubung untuk pemantauan dan kontrol jarak jauh, termasuk perancangan PCB di KiCad dan pemesanan fabrikasi lewat JLCPCB. |
+| 🧩 **Utilitas C/C++** | Program dan alat bantu berbasis C/C++ untuk logika kontrol, pemrosesan data, dan sistem tertanam. |
+| 📊 **VBA Office Automation** | Otomasi tugas berulang di Microsoft Office (Excel dan lainnya) menggunakan makro VBA untuk meningkatkan efisiensi kerja. |
+| 🔍 **Simulasi & Repair** | Simulasi rangkaian dengan Proteus, Multisim Live, dan Falstad, serta diagnosis dan perbaikan peralatan listrik. |
+
+> 💡 *Repositori proyek akan terus diperbarui seiring pembelajaran dan eksplorasi saya.*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fawwalul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwalul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Fawwalul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-fiqricell119@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiqricell119@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Fawwalul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fawwalul)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Terima kasih sudah mampir ke profil saya!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
+
+</div>
